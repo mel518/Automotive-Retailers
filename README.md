@@ -1,4 +1,4 @@
-Used Google Maps API to convert employee and Automotive Dealership addresses to coordinates. 
+Used Google Maps API to convert employee and dealership addresses to coordinates. 
 
 Python GMAPS used for visualization. 
 
